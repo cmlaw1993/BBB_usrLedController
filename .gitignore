@@ -1,0 +1,11 @@
+# ignore all object files
+*.o
+
+# ignore all precompiled header files
+.gch
+
+# ignore all files in obj directory
+/obj
+
+# ignore all files in the bin directory
+/bin
